@@ -14,6 +14,12 @@ Bingjun Luo · Jialin Guo · Siqi Li
 
 </div>
 
+## Updates
+
+- [2026/10/13] Added the [project page](https://bingjunluo.github.io/Video-RSI/) and updated the README with a workflow animation and a [Quick Start guide](#quick-start).
+- [2026/09/30] Released the Video-RSI code.
+- [2026/09/30] Published the [Video-RSI preprint on arXiv](https://arxiv.org/abs/2609.37950).
+
 ## Overview
 
 Video-RSI improves video understanding agents by evolving their executable
